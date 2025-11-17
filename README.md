@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-**Repository:** [loan-prediction](https://github.com/JulijanaMilosavljevic/loan-prediction)  
+**Repository:** [Loan-prediction](https://github.com/JulijanaMilosavljevic/Loan-prediction)  
 **Project type:** Binary Classification (Tabular Data)  
 **Goal:** Predict loan approval (Yes/No) using applicant financial and demographic features.  
 
