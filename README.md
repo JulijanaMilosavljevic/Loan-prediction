@@ -46,7 +46,22 @@ This project demonstrates an **end-to-end machine learning workflow** in the sty
 - Insights can guide loan approval policies and risk assessment.
 
 ---
+## Files
 
+- `loan_prediction.ipynb` – main notebook with full workflow  
+- `loan.csv` – dataset used in the notebook, located at `/content/loan.csv` in Colab  
+
+> Note: In Colab, upload the CSV to `/content/` so the notebook can read it correctly.
+
+---
+
+## How to Run
+
+1. Open `loan_prediction.ipynb` in **Google Colab**.  
+2. Upload `loan.csv` to `/content/`.  
+3. Run the notebook cells step by step to reproduce data cleaning, modeling, and evaluation.  
+
+---
 ## License
 
 MIT
